@@ -27,6 +27,7 @@ Collaborator 이외의 프로젝트 참여 희망은 Pull Request를 올리신 �
 |안드로이드|Android||
 |웹|Web||
 |응용 프로그램|WinForm||
+|데브옵스|DevOps||
 
 ### 브랜치
 브랜치는 실 운용이 가능한 경우에는 master브랜치를 사용하며 그 이외에는 develop브랜치를 사용합니다.  
