@@ -22,12 +22,13 @@ Collaborator 이외의 프로젝트 참여 희망은 Pull Request를 올리신 �
 통합적인 문의는 [Hod0ri](https://github.com/Hod0ri)에게 문의주시기 바랍니다.
 |섹터 명|영문 명|담당자|
 |---|---|---|
-|AI/데이터|AI/Data||
-|API|API||
-|안드로이드|Android||
-|웹|Web||
-|응용 프로그램|WinForm||
-|데브옵스|DevOps||
+|AI/데이터|AI/Data|[Hod0ri](https://github.com/Hod0ri), [Tasty-Programmer](https://github.com/Tasty-Programmer)|
+|API|API|, [Hod0ri](https://github.com/Hod0ri)|
+|안드로이드|Android|[Alpha-Gone](https://github.com/alpha-gone), [UBamtol](https://github.com/UBamtol)|
+|웹|Web|[Soplay](https://github.com/SOPLAY), [Mallang-Mallang](https://github.com/Mallang-Mallang)|
+|응용 프로그램|WinForm|[Doonas](https://github.com/DooNas)|
+|프로젝트 관리|PM|[NightRabbits](https://github.com/NightRabbits), [Hod0ri](https://github.com/Hod0ri)|
+|디자인|UI/UX|[Mammom](https://github.com/Mammom)|
 
 ### 브랜치
 브랜치는 실 운용이 가능한 경우에는 master브랜치를 사용하며 그 이외에는 develop브랜치를 사용합니다.  
