@@ -3,7 +3,8 @@ Daelim University FAQ Chat bot for Freshman
 신입생을 위한 대림대학교 FAQ 챗봇
 
 ### 서비스 설계도
-![faq_struct](https://user-images.githubusercontent.com/65306839/153345513-4fb2535a-901a-4901-88d4-9580779ba80b.png)
+![design](https://user-images.githubusercontent.com/65306839/153700589-67911ddd-2cc4-4478-b9af-06b96212a681.png)
+
 
 ### 활용 기술 스택
 Web Server : Django (Python), FastAPI (미정)
