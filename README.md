@@ -32,4 +32,4 @@ Enviroment : Ubuntu 21.04, Virtual Cloud Server
 |[Jangyubi](https://github.com/Jangyubi)|장유빈|202230327|Project Engineer|[Android](https://github.com/alpha-gone/Daelimi)|[Link!](https://github.com/Hod0ri/Daelimi/blob/main/Retrospect/Jangyubi.md)|
 |[Mammom](https://github.com/Mammom)|김민호|201830204|Project Engineer|[Android](https://github.com/alpha-gone/Daelimi)|[Link!](https://github.com/Hod0ri/Daelimi/blob/main/Retrospect/Mammom.md)|
 |[pdhyeong](https://github.com/pdhyeong)|박도형|2022년도 졸업자|Project Engineer|[Android](https://github.com/alpha-gone/Daelimi)|[Link!](https://github.com/Hod0ri/Daelimi/blob/main/Retrospect/pdhyeong.md)|
-|[DooNas](https://github.com/DooNas)|이재준|201830224|Project Leader|[WinForm](https://github.com/DooNas/Daelimi)|[Link!](https://github.com/Hod0ri/Daelimi/blob/main/Retrospect/Doonas.md)|
+|[DooNas](https://github.com/DooNas)|이재준|201830224|Project Leader|[WinForm](https://github.com/DooNas/Daelimi)|[Link!](https://github.com/Hod0ri/Daelimi/blob/main/Retrospect/DooNas.md)|
